@@ -82,7 +82,7 @@ customer-churn-platform/
 - [x] GitHub repository created
 - [x] Python environment configured
 - [x] Dataset loaded
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 - [ ] Data Cleaning
 - [ ] Feature Engineering
 - [ ] Model Training
